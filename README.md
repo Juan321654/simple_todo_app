@@ -1,2 +1,2 @@
 ## Deployed Site
-juancamachotodoapp.netlify.app
+https://app.netlify.com/sites/juancamachotodoapp/settings/general
